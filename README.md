@@ -1,7 +1,11 @@
-prettyprint-s-expression
-========================
+A Pretty Printer for S-Expressions
+==================================
 
-A pretty printing script for s-expressions in Racket.
+`prettyprint-sexp` is a pretty printing shell script for nicely formatting
+s-expressions.
+
+It is written in Racket and calls `prettyprint-write` directly.
+
 
 
 Installation
