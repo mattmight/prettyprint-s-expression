@@ -19,5 +19,5 @@ Usage
 
 Send s-expressions on stdin:
 
-   prettyprint-sexp < input > output
+    prettyprint-sexp < input > output
 
